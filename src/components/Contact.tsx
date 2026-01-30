@@ -11,22 +11,22 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Visit Our Studio',
-    details: ['123 Creative Avenue', 'Suite 456, New York, NY 10001'],
+    details: ['KG 7 Ave, Kigali', 'Kacyiru, Rwanda'],
   },
   {
     icon: Phone,
     title: 'Call Us',
-    details: ['+1 (555) 123-4567', '+1 (555) 987-6543'],
+    details: ['+250 788 123 456', '+250 722 987 654'],
   },
   {
     icon: Mail,
     title: 'Email Us',
-    details: ['hello@freshframestudio.com', 'bookings@freshframestudio.com'],
+    details: ['hello@freshframestudio.rw', 'bookings@freshframestudio.rw'],
   },
   {
     icon: Clock,
     title: 'Working Hours',
-    details: ['Mon - Fri: 9:00 AM - 6:00 PM', 'Sat: 10:00 AM - 4:00 PM'],
+    details: ['Mon - Fri: 8:00 AM - 6:00 PM', 'Sat: 9:00 AM - 4:00 PM'],
   },
 ];
 

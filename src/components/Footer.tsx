@@ -46,12 +46,15 @@ const Footer = () => {
                 </span>
               </div>
             </div>
-            <p className="text-primary-foreground/70 max-w-sm mb-6">
+            <p className="text-primary-foreground/70 max-w-sm mb-4">
               Capturing life's precious moments with artistry and passion.
               Every frame tells a story, every photo is a memory preserved forever.
             </p>
+            <p className="text-sm text-primary-foreground/60 mb-2">
+              <strong>Founded by Isimbi Bakhita</strong>
+            </p>
             <p className="text-sm text-primary-foreground/50">
-              Based in New York City, serving clients worldwide.
+              Based in Kigali, Rwanda — serving clients across East Africa and beyond.
             </p>
           </div>
 
@@ -118,7 +121,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-primary-foreground/50 flex items-center gap-1">
               © {new Date().getFullYear()} Fresh Frame Studio. Made with{' '}
-              <Heart className="w-4 h-4 text-primary fill-primary" /> in NYC
+              <Heart className="w-4 h-4 text-primary fill-primary" /> in Kigali, Rwanda
             </p>
 
             <motion.button

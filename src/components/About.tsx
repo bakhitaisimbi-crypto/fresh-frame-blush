@@ -79,15 +79,15 @@ const About = () => {
               <span className="text-gradient-rose">Heart & Soul</span>
             </h2>
 
-            <p className="text-lg text-muted-foreground mb-8">
+            <p className="text-lg text-muted-foreground mb-6">
               At Fresh Frame Studio, we believe every moment deserves to be captured
-              with artistry and emotion. Founded with a passion for photography, we've
+              with artistry and emotion. Founded by <strong className="text-foreground">Isimbi Bakhita</strong> with a passion for photography, we've
               spent over a decade perfecting our craft and building lasting relationships
-              with our clients.
+              with our clients from our home base in Kigali, Rwanda.
             </p>
 
             <p className="text-muted-foreground mb-10">
-              Our team of skilled photographers combines technical expertise with
+              Under Isimbi's creative direction, our team of skilled photographers combines technical expertise with
               creative vision to deliver images that speak volumes. Whether it's a
               wedding, a corporate event, or an intimate portrait session, we approach
               each project with dedication and enthusiasm.
